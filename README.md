@@ -1,6 +1,6 @@
 # Domain-Info
 
-A Simple REST API built in Gin-Gonic, allows you check if a domain
+A Simple REST API built in Gin-Gonic, allows to you check if a domain
 is on the Majestic Million or is identified as a known Dynamic DNS
 provider using a precompiled list of more than ~30000 Dynamic DNS providers.
 This small stack utilizes Redis to speed up searches.
